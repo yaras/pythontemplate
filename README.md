@@ -1,6 +1,6 @@
 # What is pythontemplate?
 
-_pythontemplate_ is a template for starting python module. The heart of this template is `bin\so` script, which helps you to configure environment for development.
+_pythontemplate_ is a template for starting python module. The heart of this template is `bin\do` script, which helps you to configure environment for development.
 
 # Worklist
 
